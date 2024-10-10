@@ -143,32 +143,33 @@ st.write('\n')
 st.subheader("Work History")
 st.write("---")
 
-st.markdown("<h2 style='color:#4B0082;'>👨🏻‍💻 Machine Learning Engineer</h2>", unsafe_allow_html=True)
-st.markdown("<ul style='list-style-type:circle;'>"
+
+st.markdown("<h2 style='color:#000000;font-family:Readex Pro; font-size: 23px;'>👨🏻‍💻 Machine Learning Engineer</h2>", unsafe_allow_html=True)
+st.markdown("<ul style='list-style-type:circle; font-size: 14px;'>"
             "<li><strong>Company:</strong> Softa Solutions</li>"
             "<li><strong>Duration:</strong> February 2023 - Present (1 yr 9 mos)</li>"
             "<li><strong>Type:</strong> Part-time</li>"
             "<li><strong>Location:</strong> On-site, Pakistan</li>"
             "</ul>", unsafe_allow_html=True)
 
-st.markdown("<h2 style='color:#4B0082;'>👨🏻‍💻 Data Analyst</h2>", unsafe_allow_html=True)
-st.markdown("<ul style='list-style-type:circle;'>"
+st.markdown("<h2 style='color:#000000;font-family:Readex Pro; font-size: 23px;'>👨🏻‍💻 Data Analyst</h2>", unsafe_allow_html=True)
+st.markdown("<ul style='list-style-type:circle; font-size: 14px;'>"
             "<li><strong>Company:</strong> Fiverr</li>"
             "<li><strong>Duration:</strong> March 2024 - Present (8 mos)</li>"
             "<li><strong>Type:</strong> Part-time</li>"
             "<li><strong>Location:</strong> Remote</li>"
             "</ul>", unsafe_allow_html=True)
 
-st.markdown("<h2 style='color:#4B0082;'>🎨 Canva Expert</h2>", unsafe_allow_html=True)
-st.markdown("<ul style='list-style-type:circle;'>"
+st.markdown("<h2 style='color:#000000;font-family:Readex Pro; font-size: 23px;'>🎨 Canva Expert</h2>", unsafe_allow_html=True)
+st.markdown("<ul style='list-style-type:circle; font-size: 14px;'>"
             "<li><strong>Platform:</strong> Fiverr</li>"
             "<li><strong>Duration:</strong> July 2023 - Present</li>"
             "<li><strong>Type:</strong> Part-time</li>"
             "<li><strong>Location:</strong> Remote</li>"
             "</ul>", unsafe_allow_html=True)
 
-st.markdown("<h2 style='color:#4B0082;'>⚽ ARE Sports</h2>", unsafe_allow_html=True)
-st.markdown("<ul style='list-style-type:circle;'>"
+st.markdown("<h2 style='color:#000000;font-family:Readex Pro; font-size: 23px;'>⚽ ARE Sports</h2>", unsafe_allow_html=True)
+st.markdown("<ul style='list-style-type:circle; font-size: 14px;'>"
             "<li><strong>Role:</strong> Inventory Manager</li>"
             "<li><strong>Duration:</strong> 2018 - 2020</li>"
             "<li><strong>Type:</strong> Full-time</li>"
